@@ -1,5 +1,5 @@
-# deep-learning-challenge
-FILES IN REPO:
+## deep-learning-challenge
+# FILES IN REPO:
 'README' contains the report of the model
 'AlphabetSoupCharity_Optimization.ipynb' this is my raw code that was used to construct the model 
 'charity_model.h5' is the neural network model
